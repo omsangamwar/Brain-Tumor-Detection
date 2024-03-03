@@ -8,3 +8,5 @@ The primary objective of this project is to develop a deep learning model capabl
 
 ## Dataset
 ![Brain_Tumor_dataset](https://github.com/omsangamwar/Brain-Tumor-Detection/assets/117922569/3b2e282e-ba91-44b9-8519-e141f94f9064)
+
+
