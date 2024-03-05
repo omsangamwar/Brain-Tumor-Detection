@@ -10,3 +10,13 @@ The primary objective of this project is to develop a deep learning model capabl
 ![Brain_Tumor_dataset](https://github.com/omsangamwar/Brain-Tumor-Detection/assets/117922569/3b2e282e-ba91-44b9-8519-e141f94f9064)
 
 
+# Data Preprocessing
+
+The dataset consists of MRI (Magnetic Resonance Imaging) scans of the brain, categorized into two classes: images containing brain tumors and images without tumors (healthy brain tissue). Each image is labeled accordingly, providing supervision for our deep learning model.
+
+## a. Image Resizing:
+MRI scans may come in various resolutions. To standardize the input size for our deep learning model, we resize all images to a consistent resolution (e.g., 256x256 pixels)
+
+
+
+
